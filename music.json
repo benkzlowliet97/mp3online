@@ -35,8 +35,8 @@
     },
      {
       "id": 2,
-      "name_category": "music",
-      "image": "https://musicdev.sgp1.digitaloceanspaces.com/download.jfif"
+      "name_category": "tami",
+      "image": "https://musicdev.sgp1.digitaloceanspaces.com/tami.jpg"
     }
   
   ],
@@ -45,7 +45,7 @@
       "id": 1,
       "name_category": "music",
       "title": "music",
-      "image": "https://musicdev.sgp1.digitaloceanspaces.com/download.jfif",
+      "image": "https://musicdev.sgp1.digitaloceanspaces.com/tami.jpg",
       "link_mp3": "https://musicdev.sgp1.digitaloceanspaces.com/DJ%20Soda%20Unity%20Alan%20Walker%20Remix%202021%20%20%28%20%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%80%802021%20%29%20%5B7NjX01455XU%5D.mp3",
       "lyrics": "tes"
     },
